@@ -13,7 +13,7 @@ function App() {
         <p className="text-4xl mb-4">{count}</p>
         <button
           onClick={() => setCount(count + 1)}
-          className="bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600 transition duration-300"
+          className="bg-teal-500 text-white px-6 py-2 rounded hover:bg-teal-600 transition duration-300"
         >
           Increment
         </button>
